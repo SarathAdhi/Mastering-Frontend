@@ -25,7 +25,7 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
   - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
   - [Modern JavaScript](https://www.w3schools.com/js/js_es6.asp)
 
-Some more useful links:
+### Some more useful links:
 - [SEO Basics](https://developers.google.com/search/docs)
 - [8 Must-Know SEO Best Practices For Developers](https://neilpatel.com/blog/seo-developers/)
 - [Learn and Practice Flexbox](https://flexboxfroggy.com/)
