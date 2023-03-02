@@ -2,8 +2,10 @@
 
 Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-backend/)
 
-## Motivation
-- 
+## How to learn efficiently?
+- Create a daily routine.
+- Prepare a timetable.
+- Spend some time do `Projects`. Don't just learn.
 
 ## <a name ="01"></a>1.	__Introduction__
 [What is Internet?](https://roadmap.sh/guides/what-is-internet)
