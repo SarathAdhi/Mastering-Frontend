@@ -95,3 +95,5 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
 
 ## Courses
 1. [The Complete 2023 Web Development Bootcamp by Angela Yu](https://www.udemy.com/share/101qYw3@NMg21Qe1cIydsuiNgWmjGIUn0kc_4Oysx7n_k7ALF2R7OgGutLQx5t-U98bxnUuqCw==/)
+2. [Frontend Web Developer 21-Hour Bootcamp](https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/)
+3. [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
