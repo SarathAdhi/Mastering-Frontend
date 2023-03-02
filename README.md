@@ -52,6 +52,8 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
   - [Routing](https://reactrouter.com/en/main/start/overview)
   - Server-Side Rendering
   - State Management Library [Zustand](https://github.com/pmndrs/zustand), [Recoil](https://recoiljs.org/)
+  
+ ### 3.2. Learn [TypeScript](https://www.typescriptlang.org/)
 
 ### 3.2. UI Libraries for Styling
   - [TailwindCSS](https://tailwindcss.com/)
