@@ -1,8 +1,4 @@
-# Master Web Development
-
-Let's divide this journey into 2 part:
-- Frontend
-- Backend
+# Mastering Frontend
 
 Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-backend/)
 
@@ -12,7 +8,7 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
 - [What is HTTP?](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [What is DNS? | How DNS works](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
-## <a name ="02"></a>2.	__Frontend Basics__
+## <a name ="02"></a>2.	__Basics__
 ### 2.1. HTML
   - [W3Schools: Learn HTML](https://www.w3schools.com/html)
   - [HTML For Beginners](https://html.com/)
