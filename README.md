@@ -39,7 +39,12 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
   - [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 
 ## <a name ="03"></a>3.	__Frontend Intermediate__
-### 3.1. [React](https://reactjs.org/)
+
+### 3.1. Package Manager
+  - [NPM](https://github.com/workshopper/how-to-npm)
+  - [Yarn](https://classic.yarnpkg.com/en/docs/getting-started)
+  
+### 3.2. [React](https://reactjs.org/)
   - [Introduction JSX](https://reactjs.org/docs/introducing-jsx.html)
   - [React Component](https://reactjs.org/docs/react-component.html)
   - [State and Props](https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react)
@@ -53,22 +58,23 @@ Learn [What is Frontend and Backend?](https://www.geeksforgeeks.org/frontend-vs-
   - Server-Side Rendering
   - State Management Library [Zustand](https://github.com/pmndrs/zustand), [Recoil](https://recoiljs.org/)
 
-### 3.2. UI Libraries for Styling
+### 3.3. UI Libraries for Styling
   - [TailwindCSS](https://tailwindcss.com/)
   - [MUI](https://mui.com/material-ui/getting-started/installation/)
   - [Chakra UI](https://chakra-ui.com/getting-started)
   - [Styled Components](https://styled-components.com/)
 
-### 3.3. Frameworks
+### 3.4. Frameworks
   - [NextJS](https://nextjs.org/)
   - [Vue](https://vuejs.org/)
+  - [Svelte](https://svelte.dev/)
   
-### 3.4. API Calls
+### 3.5. API Calls
   - [Axios](https://axios-http.com/docs/intro)
   - [React-Query](https://github.com/TanStack/query)
   - [SWR](https://swr.vercel.app/)
  
-### 3.5. Learn [TypeScript](https://www.typescriptlang.org/)
+### 3.6. Learn [TypeScript](https://www.typescriptlang.org/)
 
 ## <a name ="04"></a>4.	__Frontend Advance__
   - [Advancing React Hooks](https://www.freecodecamp.org/news/code-react-hooks/)
